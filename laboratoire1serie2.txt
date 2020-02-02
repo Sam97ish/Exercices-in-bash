@@ -1,0 +1,49 @@
+1) preparatoire;
+afficher les valeurs de l'environnement (Variables).
+
+2) dans bienvenue.txt
+
+3)
+for symbole in pique carreau coeur trefle ; do
+echo "Famille : $symbole"
+done
+
+la boucle affiche les qautre famille du jeux des carts
+solution dans *for_cards.sh*
+
+4) done
+
+deux ficiher Comptage*
+
+5)
+la terminal retourne la valeur 0
+$# = nombre d'argument passe au script
+$2 = la valeur de la deuxieme argument passe au script
+
+6) done
+fichier droites.sh working as expected
+
+7) works as intended 
+fichier isExistantQ7.sh
+
+8) done
+fichier project.sh
+
+complement 1 inconvenient: si on execute le script deux fois en utilisant le meme nom de repretoire, le script va ecraser le repretoire orginal pendant le deuxieme execution.
+
+9) done
+fichier testQ9
+
+10) done
+folder latexQ10/balayette.sh
+although needs a try in labo
+
+11) done
+working as intended in fichier tantQueQ11
+
+12)  done
+working as intended in folder dustbinQ12 in fichier pouble.sh
+
+
+
+
